@@ -47,7 +47,8 @@
     "wpackagist-plugin/ml-slider":"3.23.0",
     "wpackagist-plugin/ultimate-social-media-icons":"2.6.7",
     "wpackagist-plugin/under-construction-page":"3.89",
-    "wpackagist-plugin/wordpress-importer":"0.7"
+    "wpackagist-plugin/wordpress-importer":"0.7",
+    "wpackagist-plugin/wordpress-seo":"17.5"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.6.0",
